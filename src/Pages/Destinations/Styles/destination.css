@@ -1,0 +1,97 @@
+.destination-div h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    color:#5E6282;
+}
+
+.destination-div h1{
+    margin: 0px;
+    font-family: Volkhov;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 64.5px;
+    text-align: center;  
+}
+
+.destination-div{
+    margin-top: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 617px;
+}
+
+.destination-cards{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.d-card-item-1,.d-card-item-2,.d-card-item-3{
+    width: 315px;
+    height: 457px;
+    background-color: bisque;
+    border-radius: 24px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.d-card-item-1{
+    background-image: url('/Users/Pakshal/Desktop/PROJECTS/COMPUTETASK1/travel-app/src/Pages/folderimages/d2.png');
+}
+
+.d-card-item-2{
+    background-image: url('/Users/Pakshal/Desktop/PROJECTS/COMPUTETASK1/travel-app/src/Pages/folderimages/d3.jpeg');
+}
+
+.d-card-item-3{
+    background-image: url('/Users/Pakshal/Desktop/PROJECTS/COMPUTETASK1/travel-app/src/Pages/folderimages/d1.png');
+}
+
+.card-info{
+    margin: 0px;
+    width: 315px;
+    height: 130px;
+    background-color: white;
+}
+
+.trip-p{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.41px;
+    text-align: left;
+}
+
+.info-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 30px 0px 30px;
+    color: #5E6282;
+}
+
+.trip-days{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.92px;
+    text-align: left;
+    color: #5E6282;
+    margin-left:30px ;
+    margin-top: -3px;
+}
+
+

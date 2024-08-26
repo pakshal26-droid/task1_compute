@@ -1,0 +1,71 @@
+.category-div{
+    margin-top:50px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 525px;
+}
+
+.category-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 120px;
+    height: 314px;
+}
+
+.category-div h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    color: #5E6282;
+    margin: 0px;
+}
+
+.category-div h1{
+    font-family: Volkhov;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 64.5px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+.c-card-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    width: 190px;
+    height: 227px;  
+}
+
+.c-card-item img{
+    width: 67px;
+    height: 75px;
+}
+
+.c-card-item h3{
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27.24px;
+    text-align: center;
+}
+
+.c-card-item p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400; 
+    line-height: 26px; 
+    text-align: center;
+}
+

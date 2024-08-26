@@ -1,0 +1,87 @@
+.sidecard{
+    width: 370px;
+    height: 400px;
+    margin-left: 100px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 40px -35px 100px lightblue;
+}
+
+.image{
+    background-image: url('/Users/Pakshal/Desktop/PROJECTS/COMPUTETASK1/travel-app/src/Pages/folderimages/Rectangle 17.jpg');
+    width: 321px;
+    height: 161px;
+    gap: 0px;
+    border-radius: 24px;
+}
+
+.icons-div{
+    width: 139px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content-header h1{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.41px;
+    letter-spacing: 0.015em;
+    text-align: left;
+}
+
+.content-header p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.92px;
+    letter-spacing: -0.005em;
+    text-align: left;
+    color: #84829A;
+}
+
+.content-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 321px;
+    align-items: center;
+}
+
+.content-footer p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.92px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #84829A;
+}
+
+.content-footer{
+    margin-top: 25px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+.bldg{
+    width: 16px;
+    height: 16px;
+    top: 2843px;
+    left: 856px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: -10px;
+}
+
+.heart-icon{
+    margin-left: 80px;
+}

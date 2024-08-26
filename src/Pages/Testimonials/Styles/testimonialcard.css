@@ -1,0 +1,120 @@
+.testimonial-content h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: left;
+    color: #5E6282;
+    
+}
+.testimonial-content h1{
+    font-family: Volkhov;
+font-size: 50px;
+font-weight: 700;
+line-height: 64.5px;
+text-align: left;
+
+    
+    
+}
+.testimonial-content{
+ width: 409px;
+
+
+
+}
+.testimonial-div{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.dots{
+    width: 87px;
+height: 12px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin-top: 80px;
+
+}
+.tsidecard-div{
+    margin-top: 70px;
+    width: 541px;
+    height: 279px;
+    border-radius: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   box-shadow: 0px 90px 300px rgb(230, 230, 255);
+}
+.tsidecard-content p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #5E6282;
+    
+}
+.tsidecard-content h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: left;
+    color: #5E6282;
+    margin: 20px 0px 0px 0px;
+    
+}
+.tsidecard-content h4{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #5E6282;
+    margin: 5px 0px 0px 0px ;
+
+}
+.tsidecard-content{
+    width:402px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: center;
+}
+.tsidecard-img{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 345px;
+    position: absolute;
+    align-items: flex-start;
+    width: 541px;
+}
+
+.brands-div{
+    width: 80%;
+    margin: 100px auto auto auto;
+}
+
+.item-div{
+   display:flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   /* padding: 0px 100px 0px 100px; */
+height: 162px;
+filter: saturate(0%);
+gap: 30px;
+flex-wrap: wrap;
+
+  
+}
+
+

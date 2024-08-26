@@ -1,0 +1,85 @@
+.footer-div{
+    margin: 100px auto 100px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    width: 80%;
+}
+.footer-title{
+    width: 207px;
+height: 133px;
+}
+.footer-title h1{
+    font-family: Poppins;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 66px;
+    text-align: left;
+    margin: 0px;
+     
+}
+.footer-title p{
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 16.19px;
+text-align: left;
+color: #5E6282;
+
+}
+.footer-items h2{
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 26.15px;
+    text-align: left;
+    
+}
+.footer-p{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 22.41px;
+text-align: left;
+color :#5E6282;
+margin: 0px;
+}
+.footer-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.footer-icons-div{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.stores-icon{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.footer-icons-div p{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.9px;
+letter-spacing: 0.005em;
+text-align: left;
+margin: 0px 0px 10px 0px;
+color: #5E6282;
+}
+.copyright{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 17.43px;
+text-align: center;
+margin-top: 50px;
+color: #5E6282;
+margin-bottom: 100px;
+}
